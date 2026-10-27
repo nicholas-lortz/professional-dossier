@@ -1,5 +1,11 @@
 # Acronyms and Symbols By Discipline
 
+# Electrical
+| Acronym | Expanded Term |
+|---|---|
+| DMM | digital multimeter |
+| EME | electromagnetic emissions |
+
 # Quality
 | Acronym | Expanded Term |
 |---|---|
@@ -204,8 +210,12 @@
 
 |Acronym|Expanded|
 |-|-|
+| DOORS | dynamic object oriented requirements system |
 | FRACAS | failure reporting, analysis, and corrective action system |
+| ICD | interface control document |
+| IV&V | integration, verification and validation |
 | LCE | life cycle engineering |
+| MBSE | model-based systems engineer |
 | MTBF | mean time between failures |
 | RM | requirements management |
 
