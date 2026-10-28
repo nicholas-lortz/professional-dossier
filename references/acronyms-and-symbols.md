@@ -6,6 +6,108 @@
 | DMM | digital multimeter |
 | EME | electromagnetic emissions |
 
+## Mechanical 
+| Acronym or Symbol | Expanded Term |
+|-|-|
+| ALT | Accelerated Life Test |
+| ANSI | American National Standards Institute |
+| API | American Petroleum Institute |
+| ASTM | American Society for Testing and Materials |
+| BIM | Building Information Management |
+| BOM | Bill of Materials |
+| CAD | Computer-aided Design |
+| CAE | Computer-aided Engineering |
+| CAM | Computer-aided Manufacturing |
+| CDR | Critial Design Review |
+| CFD | Computational Fluid Dynamics |
+| CNC | Computer Numerical Control |
+| COTS | Commercial Off-the-Shelf |
+| DAQ | Data Acquisition |
+| DCN | Document Change Notice |
+| DCR | Document Change Request |
+| DFA | Design for Assembly | 
+| DFAuto | Design for Automation |
+| DFC | Design for Cost |
+| DFM | Design for Manufacturing | 
+| DHF | Design History Files | 
+| DMR | Device Master Record |
+| DOE | Design of Experiments |
+| DVP&R | Design Verification Plan & Report |
+| ECN | Engineering Change Notice |
+| ECO | Engineering Change Order |
+| ECR | Engineering Change Request |
+| ECS | Engineering Change System |
+| EoL | End of Life |
+| ERP | Enterprise Resource Planning |
+| FAT | Factory Acceptance Testing | 
+| FEA | Finite Element Analysis |
+| FOS | Factor of Safety |
+| GAD | general arrangement drawing |
+| GD&T | Geometric Dimensioning and Tolerancing |
+| GMP | Good Manufacturing Practice |
+| HALT | Highly Accelerated Life Test |
+| HPDM | High-Precision Design and Manufacturing |
+| HPM | High-precision Machining |
+| HVAC | heating, ventilation and air conditioning |
+| IP | Intellectual Property |
+| LRU | Line Replaceable Unit |
+| MBSE | Model-based Systems Engineering |
+| MEP | Mechanical Electrical Plumbing |
+| MES | Manufacturing Execution System |
+| MIM | Metal Injection Molding |
+| MRB | Material Review Board |
+| NEMA | National Electrical Manufacturers Association |
+| NPD | New Product Development |
+| P&ID | Piping & Instrumentation Diagram
+| PDM | Product Data Management |
+| PDR | Preliminary Design Review |
+| PIM | Powder Injection Molding |
+| PLM | Product Lifecycle Management | 
+| QSR | Quality System Regulation |
+| ROM | Rough Order of Magnitude |
+| R&D | Research & Development |
+| SAT | Site Acceptance Testing |
+| SME | Subject Matter Expert |
+| STOP | Structural–Thermal–Optical–Performance |
+| UAV | Unmanned Aerial Vehicle |
+| VDL | Visual Design Language |
+| WTM | Wind Tunnel Model |
+
+## Project Management
+
+| Acronym | Expanded | Definition |
+|-|-|-|
+| AC | Actual Cost | 
+| ARR | Annual Recurring Revenue |  |
+| CapEx | Capital Expenditure | Money spent on long term assets. |
+| CPI | Cost Performance Index | 
+| CV | Cost Variance | 
+| DAD | Disciplined Agile Delivery |
+| DoD | Definition of Done | 
+| DoR | Definition of Ready |
+| ETC | Estimate to Complete |
+| EV | Earned Value |  |
+| LeSS | Large Scale Scrum |
+| OKR | Objective & Key Result |  |
+| OpEx | Operating Expenditure |  |
+| PdM | Product Manager | | 
+| PfM | Portfolio Manager | |
+| PgM | Program Manager | |
+| PM | Project Manager | |
+| PMO | Project Management Office | |
+| PV | Planned Value | 
+| P&L | Profit & Loss |  |
+| ROI | Return on Investment |  |
+| SAFe | Scaled Agile Framework | 
+| SME | Subject Matter Expert |
+| SPI | Schedule Performance Index |
+| SV | Schedule Variance | 
+| SWOT | Strengths Weaknesses Opportunities Threats |
+| VBS | Value Breakdown Structure | 
+| WBS | Work Breakdown Structure | 
+| WoW | Way of Working |
+| XP | eXtreme Programming | 
+
 ## Quality
 | Acronym | Expanded Term |
 |---|---|
@@ -181,12 +283,14 @@
 | CRUD | Create Read Update Delete |
 | CSV | Comma-separated Values |
 | CVE | Common Vulnerabilities and Exposures |
+| DHCP | Dynamic Host Configuration Protocol |
 | DI | Dependency Injection |
 | DNS | Domain Name System |
 | DR | Disaster Recovery | 
 | FTP | File Transfer Protocol |
 | IaaS | Infrastructure as a Service | 
 | IaC | Infrastructure as Code | 
+| IP | Internet Protocol |
 | MFA | Multifactor Authentication |
 | PaaS | Platform as a Service |
 | PRD | Product Requirement Document |
@@ -202,7 +306,9 @@
 | SLO | Service Level Objective |
 | SSH | Secure Shell |
 | SSO | Single Sign-on | 
+| TCP | Transmission Control Protocol |
 | TDD | Test-driven Development | 
+| UDP | User Diagram Protocol |
 | VM | Virtual Machine |
 | VPN | Virtual Private Network | 
 
@@ -218,108 +324,6 @@
 | MBSE | model-based systems engineer |
 | MTBF | mean time between failures |
 | RM | requirements management |
-
-## Project Management
-
-| Acronym | Expanded | Definition |
-|-|-|-|
-| AC | Actual Cost | 
-| ARR | Annual Recurring Revenue |  |
-| CapEx | Capital Expenditure | Money spent on long term assets. |
-| CPI | Cost Performance Index | 
-| CV | Cost Variance | 
-| DAD | Disciplined Agile Delivery |
-| DoD | Definition of Done | 
-| DoR | Definition of Ready |
-| ETC | Estimate to Complete |
-| EV | Earned Value |  |
-| LeSS | Large Scale Scrum |
-| OKR | Objective & Key Result |  |
-| OpEx | Operating Expenditure |  |
-| PdM | Product Manager | | 
-| PfM | Portfolio Manager | |
-| PgM | Program Manager | |
-| PM | Project Manager | |
-| PMO | Project Management Office | |
-| PV | Planned Value | 
-| P&L | Profit & Loss |  |
-| ROI | Return on Investment |  |
-| SAFe | Scaled Agile Framework | 
-| SME | Subject Matter Expert |
-| SPI | Schedule Performance Index |
-| SV | Schedule Variance | 
-| SWOT | Strengths Weaknesses Opportunities Threats |
-| VBS | Value Breakdown Structure | 
-| WBS | Work Breakdown Structure | 
-| WoW | Way of Working |
-| XP | eXtreme Programming | 
-
-## Mechanical 
-| Acronym or Symbol | Expanded Term |
-|-|-|
-| ALT | Accelerated Life Test |
-| ANSI | American National Standards Institute |
-| API | American Petroleum Institute |
-| ASTM | American Society for Testing and Materials |
-| BIM | Building Information Management |
-| BOM | Bill of Materials |
-| CAD | Computer-aided Design |
-| CAE | Computer-aided Engineering |
-| CAM | Computer-aided Manufacturing |
-| CDR | Critial Design Review |
-| CFD | Computational Fluid Dynamics |
-| CNC | Computer Numerical Control |
-| COTS | Commercial Off-the-Shelf |
-| DAQ | Data Acquisition |
-| DCN | Document Change Notice |
-| DCR | Document Change Request |
-| DFA | Design for Assembly | 
-| DFAuto | Design for Automation |
-| DFC | Design for Cost |
-| DFM | Design for Manufacturing | 
-| DHF | Design History Files | 
-| DMR | Device Master Record |
-| DOE | Design of Experiments |
-| DVP&R | Design Verification Plan & Report |
-| ECN | Engineering Change Notice |
-| ECO | Engineering Change Order |
-| ECR | Engineering Change Request |
-| ECS | Engineering Change System |
-| EoL | End of Life |
-| ERP | Enterprise Resource Planning |
-| FAT | Factory Acceptance Testing | 
-| FEA | Finite Element Analysis |
-| FOS | Factor of Safety |
-| GAD | general arrangement drawing |
-| GD&T | Geometric Dimensioning and Tolerancing |
-| GMP | Good Manufacturing Practice |
-| HALT | Highly Accelerated Life Test |
-| HPDM | High-Precision Design and Manufacturing |
-| HPM | High-precision Machining |
-| HVAC | heating, ventilation and air conditioning |
-| IP | Intellectual Property |
-| LRU | Line Replaceable Unit |
-| MBSE | Model-based Systems Engineering |
-| MEP | Mechanical Electrical Plumbing |
-| MES | Manufacturing Execution System |
-| MIM | Metal Injection Molding |
-| MRB | Material Review Board |
-| NEMA | National Electrical Manufacturers Association |
-| NPD | New Product Development |
-| P&ID | Piping & Instrumentation Diagram
-| PDM | Product Data Management |
-| PDR | Preliminary Design Review |
-| PIM | Powder Injection Molding |
-| PLM | Product Lifecycle Management | 
-| QSR | Quality System Regulation |
-| ROM | Rough Order of Magnitude |
-| R&D | Research & Development |
-| SAT | Site Acceptance Testing |
-| SME | Subject Matter Expert |
-| STOP | Structural–Thermal–Optical–Performance |
-| UAV | Unmanned Aerial Vehicle |
-| VDL | Visual Design Language |
-| WTM | Wind Tunnel Model |
 
 ---
 
