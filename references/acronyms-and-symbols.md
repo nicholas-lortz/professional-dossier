@@ -1,12 +1,12 @@
-# Acronyms and Symbols By Discipline
+# Acronyms (By Discipline)
 
-# Electrical
+## Electrical
 | Acronym | Expanded Term |
 |---|---|
 | DMM | digital multimeter |
 | EME | electromagnetic emissions |
 
-# Quality
+## Quality
 | Acronym | Expanded Term |
 |---|---|
 | 6σ | six sigma |
@@ -158,7 +158,7 @@
 | WBS | work breakdown structure |
 | WIP | work in process |
 
-# Software
+## Software
 | Acronym | Expanded Term | 
 | - | - | 
 | ACL | Access Control List | 
@@ -206,7 +206,7 @@
 | VM | Virtual Machine |
 | VPN | Virtual Private Network | 
 
-# Systems Engineering
+## Systems Engineering
 
 |Acronym|Expanded|
 |-|-|
@@ -219,7 +219,7 @@
 | MTBF | mean time between failures |
 | RM | requirements management |
 
-# Project Management
+## Project Management
 
 | Acronym | Expanded | Definition |
 |-|-|-|
@@ -323,9 +323,9 @@
 
 ---
 
-## Symbols (by discipline)
+# Symbols (by discipline)
 
-### Symbols (Dynamics)
+## Symbols (Dynamics)
 | Acronym or Symbol | Expanded Term |
 |-|-|
 | t | time | 
@@ -342,7 +342,7 @@
 | v<sub>A/B</sub> | relative velocity of "A" with respect to "B" |
 | a<sub>A/B</sub> | relative acceleration of "A" with respect to "B |
 
-### Symbols (Statics)
+## Symbols (Statics)
 | Acronym or Symbol | Expanded Term |
 |-|-|
 | A | Area |
