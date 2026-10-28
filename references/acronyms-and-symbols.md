@@ -290,11 +290,13 @@
 | FAT | Factory Acceptance Testing | 
 | FEA | Finite Element Analysis |
 | FOS | Factor of Safety |
+| GAD | general arrangement drawing |
 | GD&T | Geometric Dimensioning and Tolerancing |
 | GMP | Good Manufacturing Practice |
 | HALT | Highly Accelerated Life Test |
 | HPDM | High-Precision Design and Manufacturing |
 | HPM | High-precision Machining |
+| HVAC | heating, ventilation and air conditioning |
 | IP | Intellectual Property |
 | LRU | Line Replaceable Unit |
 | MBSE | Model-based Systems Engineering |
